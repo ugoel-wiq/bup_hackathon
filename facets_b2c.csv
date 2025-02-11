@@ -1,0 +1,500 @@
+SearchPhrase,FacetDisplayName
+MILK,Almond Milk
+MILK,Coconut Milk
+MILK,Oat Milk
+MILK,Skim Milk
+MILK,Condensed Milk
+MILK,Rice Milk
+MILK,Full Fat
+BREAD,White Bread
+BREAD,Wholegrain Bread
+BREAD,Turkish Bread
+BREAD,Banana Bread
+BREAD,Raisin Toast
+CHICKEN,Chicken Breast
+CHICKEN,Chicken Thigh
+CHICKEN,Chicken Mince
+CHICKEN,Chicken Tenders
+CHICKEN,Chicken Nuggets
+CHICKEN,Chicken Wings
+CHICKEN,Chicken Drumsticks
+CHICKEN,Chicken Kebabs
+CHICKEN,Chicken Kievs
+CHIPS,Frozen Chips
+CHIPS,Corn Chips
+CHIPS,Potato Chips
+Chips,Multipack
+CHEESE,Cheese Slices
+CHEESE,Cream Cheese
+CHEESE,Cheese Block
+CHEESE,Cottage Cheese
+CHEESE,Snacking Cheese
+CHEESE,Shredded Cheese
+CHEESE,Light Cheese
+EGGS,6 Pack
+EGGS,12 Pack
+EGGS,Family Pack
+BAKING,Pancake Mix
+BAKING,Chocolate Chips
+BAKING,Cooking Chocolate
+BAKING,Bread Mix
+BAKING,Brownie Mix
+BAKING,Cookie Mix
+BAKING,Muffin Mix
+BAKING,Cake Decorations
+BAKING,Colours & Essences
+YOGHURT,Greek Yoghurt
+YOGHURT,Yoghurt Pouches
+ICECREAM,Icecream Cones & Sticks
+ICECREAM,Vanilla
+ICECREAM,Chocolate
+ICECREAM,Strawberry
+ICECREAM,Icecream Tubs
+BUTTER,Butter & Margarine
+BUTTER,Unsalted Butter
+BUTTER,Salted Butter
+BUTTER,Spreadable Butter
+Butter,Nut Butters
+HAM,Shaved & Shredded Ham
+HAM,Sliced Ham
+HAM,Deli Ham
+HAM,Leg Ham
+HAM,Champagne Ham
+HAM,Honey Ham
+HAM,Smoked Ham
+HAM,English Ham
+BACON,Diced Bacon
+BACON,Streaky Bacon
+BACON,Shortcut Bacon
+BACON,Middle Bacon
+PASTA,Pasta Sauce
+PASTA,Fresh Pasta
+Pasta,Spaghetti
+Pasta,Spiral
+Pasta,Penne
+Pasta,Fettuccine
+Pasta,Macaroni
+Pasta,Rigatoni
+LOLLIES,Sour Lollies
+LOLLIES,Liquorice
+COFFEE,Coffee Pods
+COFFEE,Coffee Beans
+COFFEE,Instant Coffee
+COFFEE,Coffee Sachets
+COFFEE,Ground Coffee
+COFFEE,Decaf Coffee
+Coffee,Specialty
+BISCUITS,Crackers
+BISCUITS,Cookies
+BISCUITS,Chocolate Biscuits
+BISCUITS,Shortbread
+BISCUITS,Crispbread
+BISCUITS,Wafer Biscuits
+CEREAL,Oats
+CEREAL,Bran
+MINCE,Beef Mince
+MINCE,Pork Mince
+MINCE,Chicken Mince
+MINCE,Turkey Mince
+MINCE,Lean Beef Mince
+OATS,Muesli
+OATS,Granola
+OATS,Rolled Oats
+OATS,Quick Oats
+OATS,Clusters
+OATS,Oat Sachets
+SAUSAGES,Beef Sausages
+SAUSAGES,Pork Sausages
+SAUSAGES,Chicken Sausages
+CREAM,Sour Cream
+CREAM,Whipped Cream
+CREAM,Cooking Cream
+PIZZA,Pizza Base
+PIZZA,Pizza Sauce
+PIZZA,Frozen Pizza
+WATER,Mineral Water
+WATER,Bottled Water
+WATER,Flavoured Water
+Water,Bulk
+SPREADS,Peanut Butter
+SPREADS,Honey
+SPREADS,Jam
+SPREADS,Cheese Spread
+SPREADS,Sweet Spreads
+JUICE,Fruit Juice
+JUICE,Juice Poppers
+JUICE,Vegetable Juice
+FLOUR,Plain Flour
+FLOUR,Self Raising Flour
+FLOUR,Wholemeal Flour
+FLOUR,Spelt Flour
+SUGAR,White Sugar
+SUGAR,Brown Sugar
+SUGAR,Raw Sugar
+SUGAR,Icing Sugar
+SUGAR,Caster Sugar
+cat,Cat Food
+cat,Cat Litter
+cat,Cat Accessories
+cat,Cat Toys
+cat food,Dry Cat Food
+cat food,Wet Cat Food
+cat food,Cat Treats
+cat food,Frozen Cat Food
+cat food,Chilled Cat Food
+dog,Dog Food
+dog,Dog Accessories
+dog,Dog Toys
+dog food,Dog Treats
+dog food,Dry Dog Food
+dog food,Dog Biscuits
+dog food,Wet Dog Food
+dog food,Chilled Dog Food
+BABY ACCESSORIES,Wipes
+BABY ACCESSORIES,Bottles
+BABY ACCESSORIES,Teething & Soothers
+BABY ACCESSORIES,Bath & Skincare
+BABY ACCESSORIES,Baby Health & Safety
+BABY ACCESSORIES,Baby Toys
+BABY ACCESSORIES,Baby Bibs
+BABY FORMULA,0 - 6 months
+BABY FORMULA,6-12 months
+BABY FORMULA,12 months plus
+Sauce,Pasta sauce
+Sauce,Tomato sauce
+Sauce,Soy Sauce
+Sauce,BBQ Sauce
+Sauce,Hot Sauce
+Ready To Eat Meals,Pasta
+Ready To Eat Meals,Beef
+Ready To Eat Meals,Chicken
+Ready To Eat Meals,Soup
+Ready To Eat Meals,Quiche
+Ready To Eat Meals,Family Meals
+Ready To Eat Meals,Pizza
+Ready To Eat Meals,Single Serve Meals
+Ready To Eat Meals,Pies
+Meals,Pasta
+Meals,Beef
+Meals,Chicken
+Meals,Soup
+Meals,Quiche
+Meals,Family Meals
+Meals,Pizza
+Meals,Single Serve Meals
+Meals,Pies
+Frozen Meals,Pasta
+Frozen Meals,Beef
+Frozen Meals,Chicken
+Frozen Meals,Kids Meals
+Frozen Meals,Pies
+Frozen Meals,Asian
+Frozen Meals,Pies & Sausage Rolls
+Frozen Meals,Pizza
+Frozen Meals,Single Serve Meals
+Ice Cream,Vanilla Ice Cream
+Ice Cream,Chocolate Ice Cream
+Ice Cream,Ice Cream Cones
+Ice Cream,Ice Cream Tubs
+Ice Cream,Ice Cream Cakes
+Ice Cream,Sandwiches
+Ice Cream,Minis & Bites
+Soup,Tomato Soup
+Soup,Instant Soup
+Soup,Chicken Soup
+Soup,Pumpkin Soup
+Soup,French Onion Soup
+Soup,Canned Soup
+Soup,Miso
+Soup,Vegetable
+Mayonaise,Whole Egg
+Mayonaise,Japanese
+Mayonaise,Light
+Mayonaise,Aioli
+Mayonaise,Traditional
+Soft Drink,Bulk
+Bread,Bread Rolls
+Bread,Garlic Bread
+Milk,Long Life
+Eggs,Free Range
+Toilet Paper,Double Length
+Toilet Paper,Recycled
+Sausages,Chipolatas
+Sausages,Frankfurts & Hotdogs
+Biscuits,Multipacks
+Lollies,Snakes
+Lollies,Party Mix
+Lollies,Family Size
+Lollies,Lollipops
+Noodles,Cup
+Noodles,Instant
+Noodles,Vermicelli & Rice Noodles
+Noodles,Udon Noodles
+Noodles,Ramen Noodles
+Toothpaste,Whitening
+Toothpaste,Kids
+Toothpaste,Sensitive
+Nappies,Bundles
+Wipes,Bundles
+Oil,Olive Oil
+Oil,Vegetable Oil
+Oil,Canola Oil
+Oil,Flavoured
+Oil,Spray
+Oil,Sesame Oil
+Oil,Peanut Oil
+Oil,Rice Bran Oil
+Oil,Coconut Oil
+Soap,Soap Refil
+Soap,Body Wash
+Soap,Soap Bars
+Soap,Liquid
+Beef,Mince
+Beef,Steak
+Beef,Diced & Strips
+Beef,Sausages & Burgers
+Beef,Stock
+Yoghurt,Vanilla Yoghurt
+Yoghurt,Gut Health
+Yoghurt,Protein Yoghurt
+Yoghurt,Kids Yoghurt
+Yoghurt,Dairy Free Yoghurt
+Chocolate,Chocolate Blocks
+Chocolate,Chocolate Bars
+Chocolate,Boxed Chocolate
+Chocolate,Chocolate Minis
+Chocolate,Dark Chocolate
+Chocolate,Milk Chocolate
+Chocolate,Chocolate Share Packs
+Chocolate,Cooking Chocolate
+Chocolate,Gift Packs
+Cake,Cake Mix
+Cake,Birthday Cake
+Cake,Mud Cake
+Cake,Chocolate Cake
+Cake,Cheesecake
+Cake,Sponge Cake
+Cake,Cupcake
+Cakes,Cake Mix
+Cakes,Birthday Cake
+Cakes,Mud Cake
+Cakes,Chocolate Cake
+Cakes,Cheesecake
+Cakes,Sponge Cake
+Cakes,Cupcake
+makeup,Face
+makeup,Eyes
+makeup,Lips
+makeup,Nails & Lashes
+makeup,Tools & Accessories
+bakery,Bread
+bakery,Wraps
+bakery,Cakes
+bakery,Donuts & Cookies
+bakery,Muffins
+bakery,Pastries & Desserts
+huggies,Nappies
+huggies,Wipes
+huggies,Nappy Pants
+huggies,Newborn - Size 2
+huggies,Size 3
+huggies,Size 4
+huggies,Size 5
+huggies,Size 6
+mco beauty,Fragrance and Body
+mco beauty,Face
+mco beauty,Eyes
+mco beauty,Lips
+mco beauty,Skincare
+mco beauty,Tools & Brushes
+mco beauty,Nails & Lashes
+mco beauty,Hair Accessories
+mcobeauty,Fragrance and Body
+mcobeauty,Face
+mcobeauty,Eyes
+mcobeauty,Lips
+mcobeauty,Skincare
+mcobeauty,Tools & Brushes
+mcobeauty,Nails & Lashes
+mcobeauty,Hair Accessories
+mco,Fragrance and Body
+mco,Face
+mco,Eyes
+mco,Lips
+mco,Skincare
+mco,Tools & Brushes
+mco,Nails & Lashes
+mco,Hair Accessories
+protein powder,Vanilla Protein Powder
+protein powder,Chocolate Protein Powder
+protein powder,Whey Protein Powder
+protein powder,Vegan Protein Powder
+protein powder,Plant Based Protein Powder
+protein,Protein Yoghurt
+protein,Protein Bar
+protein,Protein Powder
+protein,Protein Drinks
+protein,Protein Snacks
+protein,Protein Pasta
+protein,Protein Meals
+sunscreen,Kids Sunscreen
+sunscreen,Face Sunscreen
+sunscreen,Sensitive Sunscreen
+sunscreen,Body Sunscreen
+sunscreen,Zinc
+drinks,Water
+drinks,Juice
+drinks,Soft Drinks
+drinks,Energy Drinks
+drinks,Kombucha
+shampoo,Anti Dandruff Shampoo
+shampoo,Purple Shampoo
+shampoo,Baby & Kids shampoo
+shampoo,Mens Shampoo
+shampoo,Dry Shampoo
+shampoo,Shampoo Bar
+shampoo,Conditioner
+shampoo,Shampoo & Conditioner
+protein bar,Muesli Bar
+protein bar,Nut Bar
+protein bar,Chocolate Protein Bar
+protein bar,Low Carb Protein Bar
+prawns,Raw Prawns
+prawns,Cooked Prawns
+prawns,Frozen Prawns
+prawns,Garlic Prawns
+fish,Salmon
+fish,Prawns
+fish,Barramundi
+fish,Calamari
+fish,Fish Fillet
+fish,Crumbed Fish
+fish,Frozen Fish
+condoms,Large Condoms
+condoms,Regular Condoms
+RICE,Brown Rice
+RICE,Basmati Rice
+RICE,Jasmine Rice
+RICE,Microwave Rice
+RICE,White Rice
+RICE,Long Grain Rice
+Rice,Vegetable Rice
+Toothbrush,Electric Toothbrush
+Toothbrush,Kids Toothbrush
+Toothbrush,Soft Bristles
+Toothbrush,Medium Bristles
+meat,Chicken
+meat,Pork
+meat,Sausage
+meat,Mince
+meat,Beef
+meat,Steak
+meat,Lamb
+meat,Burger
+meat,Ham
+seafood,Fresh Seafood
+seafood,Salmon Fillet
+seafood,Fish
+seafood,Prawns
+seafood,Frozen Seafood
+seafood,Prepacked Seafood
+seafood,Mixed Marinara
+seafood,Crabs & Crustaceans
+olive oil,Extra Virgin Olive Oil
+olive oil,Olive Oil Spray
+salmon,Smoked Salmon
+salmon,Salmon Fillet
+salmon,Canned Salmon
+frozen,Frozen Meals
+frozen,Frozen Snacks & Pizza
+frozen,Frozen Chips
+frozen,Frozen Vegetables
+frozen,Frozen Fruit
+frozen,Ice Cream & Desserts
+frozen,Frozen Seafood
+frozen,Frozen Chicken
+frozen,Bulk Range
+frozen,Single Serve Meals
+pork,Pork Chops
+pork,Pork Belly
+pork,Bacon
+pork,Pork Mince
+pork,Pork Roast
+beans,Green Beans
+beans,Black Beans
+beans,Baked Beans
+beans,Frozen Beans
+beans,Kidney Beans
+beans,Chickpeas
+beans,Lentils
+pads,Regular Pads
+pads,Super Pads
+pads,Overnight Pads
+ready meals,Pasta
+ready meals,Beef
+ready meals,Chicken
+ready meals,Soup
+ready meals,Quiche
+ready meals,Protein Meals
+ready meals,Single Serve Meals
+ready meals,Pies
+Nappies,Newborn
+Nappies,Size 2
+Nappies,Size 3
+Nappies,Size 4
+Nappies,Size 5
+Nappies,Size 6
+Nappies,Nappy Pants
+Nappies,Swim Nappies
+Nappies,Night Time Nappies
+cookies,Chocolate Cookies
+cookies,Mini Cookies
+cookies,Shortbread Cookies
+cookies,Cookie Varieties
+cookies,Ice Cream
+cake mix,Cupcake Mix
+cake mix,Cookie Mix
+cake mix,Muffin Mix
+cake mix,Brownie Mix
+cake mix,Chocolate Cake Mix
+cake mix,Vanilla Cake Mix
+lamb,Lamb Shoulder
+lamb,Lamb Roast
+lamb,Lamb Shanks & Cutlets
+stir fry,Stir Fry Vegetables
+stir fry,Stir Fry Sauce
+stir fry,Stir Fry Noodles
+stir fry,Stir Fry Meat
+tea,Green Tea
+tea,Black Tea
+tea,Chai
+tea,Peppermint Tea
+tea,Herbal Tea
+tea,Loose Leaf
+laundry,Laundry Detergent Liquid
+laundry,Laundry Powder
+laundry,Laundry Capsules
+laundry,Fabric Softener
+laundry,Stain Remover
+laundry,Laundry Sheets
+Christmas,Decorations
+Christmas,Chocolate
+Christmas,Stocking & Advent Calendars
+Christmas,Pudding
+Christmas,Cake
+Christmas,Candy Canes & Lollies
+Christmas,Christmas Lights
+Christmas,Christmas Tree
+Christmas,Ham
+Baby,Wipes
+Baby,Baby Food
+Baby,Nappies
+Baby,Nappy Pants
+Baby,Baby & Toddler Snacks
+Baby,Baby Formula
+Baby Food,Organic Food
+Baby Food,Baby Food 4 Months+
+Baby Food,Baby Food 6 Months+
+Baby Food,Baby Food 8 Months+
+Baby Food,Baby & Toddler Snacks
+Baby Food,Baby Formula
