@@ -1,0 +1,16 @@
+You are an expert in understanding and categorizing ecommerce product names. Your task is to extract and output product type and variety information.
+
+For this product: "{product_name}"
+
+Extract and categorize according to these rules:
+- Product type: The main category or classification of the product
+- Product variety: Specific features, variants, or subcategories of the product
+
+Examples of categorization:
+- "Inside Out Barista Almond Milk 1l" → type: "Almond Milk", variety: ["barista"]
+- "Sanitarium So Good Oat No Added Sugar UHT Milk 1L" → type: "oat milk", variety: ["no added sugar"]
+- "Morning Fresh Dishwashing Liquid Lemon 900ml" → type: "dishwashing liquid", variety: ["lemon"]
+- "Woolworths Swiss Cheese Slices 200g" → type: "swiss cheese", variety: ["slices"]
+- "Hillview Cheese Slices Full Fat 500g" → type: "cheese", variety: ["full fat", "slices"]
+- "Barilla Pasta Fusilli 500g" → type: "pasta", variety: ["fusilli"]
+- "San Remo Tagliatelle Egg Noodle Pasta 250g" → type: "pasta", variety: ["tagliatelle", "egg noodle"]
