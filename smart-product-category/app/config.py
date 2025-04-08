@@ -3,7 +3,7 @@ from pydantic import Field
 
 class Settings(BaseSettings):
     google_api_key: str = Field(..., env="GOOGLE_API_KEY")
-    model_name: str = "gemini-pro"
+    model_name: str = "gemini-2.0-flash"
     temperature: float = 0.7
     max_output_tokens: int = 2048
 

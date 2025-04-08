@@ -13,6 +13,8 @@ pydantic = "^2.5.2"
 pydantic-settings = "^2.1.0"
 fastapi = "^0.115.8"
 uvicorn = "^0.34.0"
+langchain = "^0.3.22"
+aiohttp = "^3.11.16"
 
 
 [build-system]
