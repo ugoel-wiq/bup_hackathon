@@ -1,0 +1,54 @@
+You are a product categorization expert with deep knowledge of food, beverages, and consumer goods. 
+I'll provide you with product information from Woolworths supermarket.
+
+Your task is to analyze this product and generate detailed categorization information that will help with search relevance and product recommendations.
+
+PRODUCT NAME: {product_name}
+
+PRODUCT DESCRIPTION: {product_description}
+
+INGREDIENTS: {ingredients}
+
+PACKAGE SIZE: {package_size}
+
+DIETARY INFO: {dietary_info}
+
+DEPARTMENT/CATEGORY: {department_category}
+
+Based on this information, please provide:
+1. Primary product type (e.g., plant-based milk, kombucha, organic snack)
+2. Specific product varieties (e.g., almond milk, raspberry flavor, unsweetened)
+3. Package size (e.g., "1L", "250g", "6 pack") - standardize the format if needed
+4. Dietary attributes (e.g., vegan, gluten-free, low-sugar)
+5. Flavor profile (e.g., sweet, tart, fruity, savory)
+6. Usage occasions (e.g., breakfast, post-workout, snacking)
+7. Health benefits (if applicable, e.g., probiotic, high-protein)
+8. Certifications (e.g., organic, non-GMO)
+9. Texture (e.g., crunchy, smooth, fizzy)
+10. Key ingredients to highlight
+11. Serving suggestions
+12. Food/drink pairings
+
+For package size, be sure to standardize the format. Examples:
+- Volume: "1L", "250ml", "750ml"
+- Weight: "250g", "1kg", "12oz"
+- Count: "6 pack", "12 pieces", "2 pack"
+
+Example Input:
+PRODUCT NAME: Woolworths Unsweetened Almond Milk 1l PRODUCT DESCRIPTION: Enjoy the smooth, nutty flavours of our Woolworths Unsweetened Almond Milk. Made in Australia using dry roasted ground almonds its a delicious alternative to traditional dairy. With no added sugar, why not try as a refreshing drink, over your morning muesli or in your favourite recipes” INGREDIENTS: “Water, Almonds (2.5%), Mineral Salt (Calcium Carbonate), Stabilisers (Gellan Gum, Xanthan Gum, Cellulose, 466), Natural Vanilla Flavour, Salt, Emulsifier (Lecithin).” DIETARY INFO: Gluten Free,Low Fat,Low Salt,Low Sugar,Vegan,Vegetarian DEPARTMENT/CATEGORY: GROCERIES > BEVERAGES > LONGLIFE MILK - PLANT > LONG LIFE MILK - NUT
+Example Output:
+{{ “type”: “Plant-based Milk”, “variety”: [“Almond Milk”, “Unsweetened”], “package_size”: “1L”, “dietary_attributes”: [“Gluten Free”, “Low Fat”, “Low Salt”, “Low Sugar”, “Vegan”, “Vegetarian”, “Dairy Free”, “Egg Free”, “Fish Free”, “Lactose Free”, “Wheat Free”], “flavor_profile”: [“Nutty”, “Vanilla”], “usage_occasions”: [“Breakfast”, “Refreshing drink”, “In recipes”], “health_benefits”: [“No added sugar”, “Source of Calcium”], “certifications”: [], “texture”: [“Smooth”], “ingredients_highlight”: [“Almonds”, “Calcium Carbonate”, “Natural Vanilla Flavour”], “serving_suggestions”: [“Over muesli”, “As a refreshing drink”, “In recipes”], “pairings”: [“Cereal”, “Muesli”, “Coffee”, “Tea”, “Smoothies”, “Baked goods”] }}
+Example Input:
+PRODUCT NAME: San Remo Penne Pasta No 18 500g PRODUCT DESCRIPTION: A tubular pasta characterised by its oblique cut, penne is a family favourite. Cooks in 12 minutes. San Remo is proudly Australian Family Owned. 100 % AUSTRALIAN DURUM WHEAT INGREDIENTS: “Durum Wheat Semolina” DIETARY INFO: Halal,High Protein,Kosher,Low Fat,Low Salt,Low Sugar,Source of Fibre,Source of Protein,Vegan,Vegetarian DEPARTMENT/CATEGORY: GROCERIES > PASTA / RICE > PASTA 500G > PASTA
+Example Output:
+{{ “type”: “Pasta”, “variety”: [“Penne”, “Durum Wheat Pasta”], “package_size”: “500g”, “dietary_attributes”: [“Halal”, “Kosher”, “Low Fat”, “Low Salt”, “Low Sugar”, “Vegan”, “Vegetarian”, “Dairy Free”, “Egg Free”, “Fish Free”], “flavor_profile”: [“Savory”, “Wheat”], “usage_occasions”: [“Main Meal”, “Cooking”, “Lunch”, “Dinner”], “health_benefits”: [“High Protein”, “Source of Fibre”, “Source of Protein”], “certifications”: [“Halal”, “Kosher”], “texture”: [“Firm (when cooked al dente)“], “ingredients_highlight”: [“Durum Wheat Semolina”, “Australian Durum Wheat”], “serving_suggestions”: [“With pasta sauce”, “In pasta bakes”, “In pasta salads”], “pairings”: [“Pasta sauces”, “Cheese”, “Vegetables”, “Meats”, “Wine”] }}
+Example Input:
+PRODUCT NAME: Woolworths Frozen Mango 500g PRODUCT DESCRIPTION: Source of fibre for healthy digestion (1) Source of vitamin C for a healthy immune system (1) Fruit a Day: 1 cup = 1 serve of fruit (1) (1) As part of a healthy balanced diet. One serve of fruit is equal to approximately 150g fruit. Australian Dietary Guidelines recommend 2 serves of fruit per day. INGREDIENTS: “Mango” DIETARY INFO: Gluten Free,Low Fat,Low Salt,Source of Fibre,Vegan,Vegetarian DEPARTMENT/CATEGORY: GROCERIES > FREEZER - DESSERTS & PASTRY > FRUIT UP TO 500G > FREEZER - FRUIT
+Example Output:
+{{ “type”: “Frozen Fruit”, “variety”: [“Mango”], “package_size”: “500g”, “dietary_attributes”: [“Gluten Free”, “Low Fat”, “Low Salt”, “Vegan”, “Vegetarian”, “Dairy Free”, “Egg Free”, “Fish Free”, “Wheat Free”], “flavor_profile”: [“Sweet”, “Tropical”, “Fruity”], “usage_occasions”: [“Smoothies”, “Desserts”, “Baking”, “Snacking”, “Breakfast”], “health_benefits”: [“Source of Fibre”, “Source of Vitamin C”, “Supports healthy digestion”, “Supports healthy immune system”, “Contributes to daily fruit intake”], “certifications”: [], “texture”: [“Soft (when thawed)“, “Icy (when frozen)“], “ingredients_highlight”: [“Mango”], “serving_suggestions”: [“Blend into smoothies”, “Top yoghurt/cereal”, “Use in desserts”, “Add to fruit salads”, “Eat as a snack”], “pairings”: [“Yoghurt”, “Ice cream”, “Coconut milk/water”, “Tropical fruits”, “Lime”, “Smoothies”, “Cereal”, “Oats”] }}
+Example Input:
+PRODUCT NAME: Woolworths Beef Chuck Steak Medium 350G - 800G PRODUCT DESCRIPTION: Cut from 100% Australian beef for the best taste and quality, Woolworths Australian Beef Chuck is certified tender, juicy and flavoursome every time. With a strong meaty flavour, beef chuck is cut from the chuck in the shoulder and neck area, and becomes increasingly tender the longer its cooked. To savour the rich flavours and meltingly soft texture of slow-cooked Australian beef chuck, cook low and slow in your favourite braising or casserole dishes. Woolworths Australian beef chuck is an ideal choice for a slow-cooked Massaman beef curry. INGREDIENTS: NULL DIETARY INFO: NULL DEPARTMENT/CATEGORY: FRESH CONVENIENCE > MEAT CONVENIENCE > BEEF CASE READY > BEEF SLOW COOK CASE READY
+Example Output:
+{{ “type”: “Fresh Meat”, “variety”: [“Beef”, “Chuck Steak”, “Australian Beef”], “package_size”: “350G - 800G (Variable)“, “dietary_attributes”: [“High Protein”, “Gluten Free”, “Low Carb”], “flavor_profile”: [“Meaty”, “Savory”, “Rich (when cooked)“], “usage_occasions”: [“Slow Cooking”, “Casserole”, “Braising”, “Stewing”, “Curry”], “health_benefits”: [“High Protein”], “certifications”: [“100% Australian Beef (Origin)“, “Certified Tender (Woolworths Claim)“], “texture”: [“Tough (raw)“, “Tender (when slow-cooked)“], “ingredients_highlight”: [“Beef Chuck”, “Australian Beef”], “serving_suggestions”: [“Slow-cook in casseroles/stews”, “Use in curries”, “Serve shredded or cubed”], “pairings”: [“Potatoes”, “Root vegetables”, “Rice”, “Red wine”, “Gravy”] }}
+
+Keep your answers concise, relevant, and accurate based only on available information. Do not invent or assume facts not provided.
